@@ -89,6 +89,11 @@ TestResults/
 /Polytoria/Properties/launchSettings.json
 
 
+## -- Secrets -- ##
+.env
+.env.*
+
+
 ## -- Exceptions -- ##
 
 # Deeplink plugin's prebuilt binary
